@@ -128,7 +128,7 @@ Store-Rating-App
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/ghoshx0/store-rating-app
 cd Store-Rating-App
 ```
 
@@ -144,8 +144,8 @@ npm install
 Create a `.env` file inside the backend directory.
 
 ```env
-DATABASE_URL="your_database_url"
-JWT_SECRET="your_secret_key"
+DATABASE_URL="your_postgresql_database_url"
+JWT_SECRET="your_jwt_secret"
 PORT=5000
 ```
 
@@ -242,27 +242,26 @@ PUT    /api/v1/user/password
 
 # Test Credentials
 
-Replace these with your seeded credentials.
 
 ## Admin
 
 ```
-Email:
-Password:
+Email: admin@store.com
+Password: Admin@123
 ```
 
 ## Owner
 
 ```
-Email:
-Password:
+Email: adani@store.com
+Password: Admin@123
 ```
 
 ## User
 
 ```
-Email:
-Password:
+Email: gaurav@gmail.com
+Password: Admin@1234
 ```
 
 ---
