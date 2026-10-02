@@ -268,38 +268,50 @@ Password: Admin@1234
 
 # Screenshots
 
-Add screenshots for the following pages:
+### Login
+![Store Rating app login screen with email and password fields, a sign in button, and a clean dark blue dashboard style.](screenshots/image.png)
 
-- Login
-![alt text](image.png)
-- Admin Dashboard
-![alt text](image-1.png)
-- Users
-![alt text](image-2.png)
-- User Details
-![alt text](image-3.png)
-- Stores
-![alt text](image-5.png)
-- Store Details
-![alt text](image-6.png)
-- Create Store
-![alt text](image-7.png)
-- Owner Dashboard
-![alt text](image-8.png)
-- My Store
-![alt text](image-9.png)
-- Ratings
-![alt text](image-10.png)
-- User Dashboard
-![alt text](image-11.png)
-- Browse Stores
-![alt text](image-12.png)
-- Submit Rating
-![alt text](image-13.png)
-- Update Rating
-![alt text](image-14.png)
-- Update Password
-![alt text](image-15.png)
+### Admin Dashboard
+![Admin dashboard with a sidebar, summary cards, and analytics panels for users, stores, and ratings in a clean management interface.](screenshots/image-1.png)
+
+### Users
+![Users management page listing registered accounts in a table with search, filters, and action controls in the admin panel.](screenshots/image-2.png)
+
+### User Details
+![Detailed user profile view showing account information, activity summary, and management actions in a structured admin screen.](screenshots/image-3.png)
+
+### Stores
+![Stores management page displaying a list of store entries with categories, ratings, and administrative controls in a dashboard layout.](screenshots/image-5.png)
+
+### Store Details
+![Store detail screen showing store information, statistics, and related management options in a focused business dashboard.](screenshots/image-6.png)
+
+### Create Store
+![Create store form with fields for the name, location, category, and description, presented in a simple admin interface.](screenshots/image-7.png)
+
+### Owner Dashboard
+![Owner dashboard with store performance statistics, navigation options, and summary panels for managing a business in the Store Rating app.](screenshots/image-8.png)
+
+### My Store
+![Owner store management page showing the business profile, performance metrics, and details for the current store in a polished dashboard.](screenshots/image-9.png)
+
+### Ratings
+![Ratings management view listing customer feedback entries with scores, comments, and moderation controls in a table layout.](screenshots/image-10.png)
+
+### User Dashboard
+![User dashboard with navigation to browse stores, view ratings, and manage the account in a personalized app interface.](screenshots/image-11.png)
+
+### Browse Stores
+![Store browsing screen displaying multiple storefront cards with names, ratings, and categories in a responsive catalog layout.](screenshots/image-12.png)
+
+### Submit Rating
+![Submit rating form with a star selection, store details, and a comment field for leaving customer feedback.](screenshots/image-13.png)
+
+### Update Rating
+![Update rating form showing an existing review with editable star selection, comment text, and save controls.](screenshots/image-14.png)
+
+### Update Password
+![Password update screen with fields for the current password, a new password, and confirmation, inside a secure account settings form.](screenshots/image-15.png)
 
 ---
 
